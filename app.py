@@ -77,4 +77,6 @@ def recommend():
 
 if __name__ == '__main__':
     # MODIFIED: Changed the port to 5001 to avoid conflicts
-    app.run(debug=True, port=5001)
+    #  app.run(debug=True, port=5001)
+    
+    app.run(debug=False)
