@@ -70,7 +70,8 @@ Clone the repository:
 
 Bash
 [
-git clone https://github.com/your-username/your-repo-name.git](https://github.com/ZahidHasan7/Book_Recommender_System.git)
+git clone ](https://github.com/ZahidHasan7/Book_Recommender_System.git)
+
 cd your-repo-name
 Create a virtual environment:
 
