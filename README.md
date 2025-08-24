@@ -14,9 +14,9 @@ This recommender system operates in two modes:
 
 ## Screenshots
 Here's a glimpse of the application in action.
-https://github.com/ZahidHasan7/Book_Recommender_System/blob/main/book%201.PNG?raw=true
-
-https://github.com/ZahidHasan7/Book_Recommender_System/blob/main/book%202.PNG?raw=true
+   ![Alt text](https://github.com/ZahidHasan7/Book_Recommender_System/blob/main/book%201.PNG)
+   ![Alt text](https://github.com/ZahidHasan7/Book_Recommender_System/blob/main/book%202.PNG)
+ 
 
 
 
