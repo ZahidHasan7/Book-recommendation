@@ -30,16 +30,15 @@ After selecting a book, the system displays a list of similar books with their c
   
 
 ## Technologies Used
-Backend: Python, Flask
+<b>Backend:</b> Python, Flask
 
-Data Manipulation: Pandas, NumPy
+<b>Data Manipulation:</b> Pandas, NumPy
 
-Machine Learning: Scikit-learn (for K-Nearest Neighbors and Cosine Similarity)
+<b>Machine Learning:</b> Scikit-learn (for K-Nearest Neighbors and Cosine Similarity)
 
-Deployment: Gunicorn, Render
+<b>Deployment:</b> Gunicorn, Render
 
-Dataset: Book-Crossing Dataset on Kaggle
-
+<b>Dataset:</b> [Book-Crossing Dataset on Kaggle](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 ## How It Works
 The recommendation logic is based on two different models:
 
